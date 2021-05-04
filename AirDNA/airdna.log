@@ -1,0 +1,201 @@
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|1901531437a64bcf8728531401585684
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 81 properties in the city 37178
+INFO:root:List of properties: [41517365, 23091161, 21880059, 35240518, 18032874, 1003455894, 15214768, 23060520, 34896729, 1001130068, 46505564, 33028664, 44303550, 23994662, 16581482, 29458680, 35598295, 17023856, 30589340, 20546129, 37921555, 46335307, 19323294, 24892192, 23350812, 35968746, 36684115, 42558025, 39618681, 1003479742, 43338712, 1002558549, 13725632, 31380061, 21151558, 39697443, 23201270, 33302446, 47186851, 47029660, 1001961611, 44555563, 46504816, 30906838, 43203004, 35138705, 20829503, 16581911, 30740924, 17987559, 40200562, 33982134, 40050197, 1265216, 24057347, 48043140, 12927708, 26131550, 39577741, 39709332, 20773339, 44100942, 45788056, 21985817, 33268645, 26832180, 35641855, 41516404, 48666318, 2514647, 45055332, 27652641, 44103180, 45759239, 48738682, 42369362, 16871216, 18928349, 44119400, 42410395, 16581777]
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|2202f1980acc4e89a8c2b839ccc7bba2
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 81 properties in the city 37178
+INFO:root:List of properties: [41517365, 23091161, 21880059, 35240518, 18032874, 1003455894, 15214768, 23060520, 34896729, 1001130068, 46505564, 33028664, 44303550, 23994662, 16581482, 29458680, 35598295, 17023856, 30589340, 20546129, 37921555, 46335307, 19323294, 24892192, 23350812, 35968746, 36684115, 42558025, 39618681, 1003479742, 43338712, 1002558549, 13725632, 31380061, 21151558, 39697443, 23201270, 33302446, 47186851, 47029660, 1001961611, 44555563, 46504816, 30906838, 43203004, 35138705, 20829503, 16581911, 30740924, 17987559, 40200562, 33982134, 40050197, 1265216, 24057347, 48043140, 12927708, 26131550, 39577741, 39709332, 20773339, 44100942, 45788056, 21985817, 33268645, 26832180, 35641855, 41516404, 48666318, 2514647, 45055332, 27652641, 44103180, 45759239, 48738682, 42369362, 16871216, 18928349, 44119400, 42410395, 16581777]
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|7570c6a07491484b9afd70d0a534490f
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|da20022c7981478c8cf6e2448f843a43
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|d5069b63011943218c4bc5dbcec8b662
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|0fa9df134ecb41c198944e7d31b1ea11
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 81 properties in the city 37178
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|9789468c22a2447e811fa6bbd2322577
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|89b646615bd44c9a961b58da7d35acfd
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 81 properties in the city 37178
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|81e3e5c358a94f8eaafbf46a4e9790f6
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 81 properties in the city 37178
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|6e744f5a3c7f423b853b8375b8999032
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 81 properties in the city 37178
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|d6ef7902c7a6438fa931c5426b44b13e
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|daef5f6008534796b94488a745f2acfc
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 81 properties in the city 37178
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|7b71b926dd4c4279be2d4bc719722918
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=chasseneuil-du-poitou&state=new-aquitaine in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: chasseneuil-du-poitou
+INFO:root:State: new-aquitaine
+INFO:root:City ID: 37178
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=37178&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 81 properties in the city 37178
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|f59c661c798a42a2b7c31197c1555567
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=toulouse&state=occitania in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: toulouse
+INFO:root:State: occitania
+INFO:root:City ID: 35432
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=35432&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 2000 properties in the city 35432
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|291cef3ad38e4063a24ab775ce6648a3
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=toulouse&state=occitania in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: toulouse
+INFO:root:State: occitania
+INFO:root:City ID: 35432
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=35432&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 2000 properties in the city 35432
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|6c3d28c8e0044c61ace7507e82a493c8
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=paris&state=ile-de-france in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: paris
+INFO:root:State: ile-de-france
+INFO:root:City ID: 2
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=2&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 2000 properties in the city 2
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/login in getToken() function
+INFO:root:Returned token: MTYwMjI2|41b7419a11434916b94865071d55e1af
+INFO:root:Pushing data to https://www.airdna.co/api/v1/account/refresh in getUpdatedTokenIfLoggedInUser() function
+INFO:root:Returned updated token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Request data from https://api.airdna.co/v1/market/area_lookup?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&country=fr&city=paris&state=ile-de-france in returnCityID() function
+INFO:root:Token: MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375
+INFO:root:Country: fr
+INFO:root:City: paris
+INFO:root:State: ile-de-france
+INFO:root:City ID: 2
+INFO:root:Request data from https://api.airdna.co/v1/market/property_list?access_token=MjkxMTI|8b0178bf0e564cbf96fc75b8518a5375&city_id=2&start_month=1&start_year=2017&number_of_months=36&show_regions=true in returnListings() function
+INFO:root:There is 2000 properties in the city 2

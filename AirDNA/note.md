@@ -1,0 +1,1 @@
+For this project, I extract the data from AirDNA website by using its API. The limit of using their unpaid APIs is that they only return maximum of 2000 records. Otherwise, I successfully extract their property listing for each ville and export the listing of properties to Excel file.
